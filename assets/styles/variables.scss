@@ -1,0 +1,58 @@
+:root,
+::before,
+::after {
+  // Text
+  --font-family: 'Quicksand', sans-serif;
+  --font-weight-thin: 300;
+  --font-weight-regular: 400;
+  --font-weight-bold: 600;
+  --font-size-small: 14px;
+  --font-size-regular: 16px;
+  --font-size-big: 18px;
+  --font-size-large: 22px;
+  
+  // Colors
+  --background--main: #F1FAEE;
+  --background-alt: #457B9D;
+  --background-buttton: #F1FAEE;
+  --background-button-hover: #457B9D;
+  --background-buttton-alt: #457B9D;
+  --background-button-hover-alt: #F1FAEE;
+  --text-color-main: #191716;
+  --text-color-alt: #F1FAEE;
+  --message-close-button-background: #191716;
+  --message-close-button-icon-color: #F1FAEE;
+  --border-color-main: #7C9299;
+  --border-color-alt: #F1FAEE;
+  --border-color-button: #457B9D;
+  --border-color-button-alt: #F1FAEE;
+  --error: #E63946;
+  --input-background: #FFFFFF;
+  --input-border-color: #7C9299;
+  --product-image-background: #FFFFFF;
+  
+  // Spacing
+  --space-tiny: 5px;
+  --space-small: 10px;
+  --space-medium: 15px;
+  --space-regular: 20px;
+  --space-big: 30px;
+
+  // Sizes
+  --border-size-main: 1px;
+  --border-size-thick: 2px;
+  --cart-fixed-width: 400px;
+  --logo-height: 42px;
+  --border-radius-regular: 4px;
+  --border-radius-big: 10px;
+  --border-radius-large: 14px;
+  --step-width: 500px;
+  --checkbox-size: 20px;
+  --loader-spinner-point-size: 14px;
+  --dialog-size: 500px;
+  --lang-flag-size: 30px;
+
+  // Z-indexes
+  --zindex-loading-layer: 1000;
+  --zindex-dialog-window: 1500;
+}
